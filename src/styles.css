@@ -1,0 +1,21 @@
+body {
+  font-family: 'Fira Mono', Helvetica, Arial, sans-serif;
+}
+
+button {
+  font-family: inherit;
+  font-size: 16px;
+  padding: 16px 20px;
+  background-color: dodgerblue;
+  border: none;
+  transition: 0.4s;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
